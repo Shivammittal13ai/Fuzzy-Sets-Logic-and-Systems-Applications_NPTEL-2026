@@ -5,7 +5,7 @@
 
 📘 This repository contains **assignments** from the **Fuzzy Sets, Logic and Systems & Applications** course offered by **SWAYAM NPTEL** by **IIT Kanpur** in the years **2020**, **2025** and **2026**, along with the **official lecture notes and lecture transcripts** shared during the **2026 session** by the instructor.
 
-🧾 It also includes a **final exam review** for the 2026 session, covering the **key insights & exam pattern analysis** — designed to help future learners understand the paper format and prepare effectively.
+🧾 It also includes a **final exam review** for the 2026 session, covering the **key insights & exam pattern analysis**, designed to help future learners understand the paper format and prepare effectively.
 
 ---
 
