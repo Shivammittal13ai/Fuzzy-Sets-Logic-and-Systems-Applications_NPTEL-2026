@@ -14,7 +14,7 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2020, 2025, & 2026) for quick revision and reference.
-- Sharing official lecture notes and transcripts of each lecture from the 2026 session for reference.
+- Sharing official lecture notes and transcripts of each lecture from the Jan-Apr 2026 session for reference.
 - Providing insights into the final exam pattern and key preparation areas from the Jan-Apr 2026 session.
 
 ---
@@ -29,6 +29,8 @@ This repository is created to help learners by:
 | **Instructor** | Prof. Nishchal Kumar Verma | 
 | **Duration** | 12 Weeks | 
 | **Course Link** | https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_ee38 |
+
+> 💡 **Note:** This course is offered **only once a year**, during the **Jan–Apr session**.
 
 ---
 
