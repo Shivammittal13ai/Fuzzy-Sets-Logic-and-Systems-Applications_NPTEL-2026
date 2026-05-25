@@ -1,4 +1,4 @@
-
+<img width="2172" height="724" alt="ChatGPT Image May 25, 2026, 10_55_07 AM" src="https://github.com/user-attachments/assets/fb2b6934-2293-4ef4-bc9b-eb22e1b95c18" />
 
 
 # Fuzzy Sets, Logic and Systems & Applications – SWAYAM NPTEL | IIT Kanpur (Assignments, Notes, Transcripts & Final Exam Review)
