@@ -1,6 +1,6 @@
 ## Attribution Notice
 
-The materials in this repository are based on the "Fuzzy Sets, Logic and Systems & Applications" course offered by SWAYAM-NPTEL by IIT Kanpur.
+The materials in this repository are based on the "Fuzzy Sets, Logic and Systems & Applications" course offered by **IIT Kanpur** in collaboration with **SWAYAM-NPTEL**.
 
 - **Instructor:** Prof. Nishchal Kumar Verma - IIT Kanpur
 - **Platform:** [SWAYAM-NPTEL](https://swayam.gov.in/)
